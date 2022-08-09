@@ -14,6 +14,6 @@ var maxProduct = function(nums) {
         maximumProduct = Math.max(max[i], maximumProduct)
     }
     
-    return maximumProduct
+    return maximumProduct;
     
 };
